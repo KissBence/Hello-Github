@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello github");
+﻿Console.Write("Hello ");
+Console.WriteLine("github");
